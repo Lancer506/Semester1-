@@ -10,7 +10,7 @@ public class Lesson5 {
 			// printf does not add a next line character like println does
 			// %d gets replaced with value of the variable
 			// \n means new line
-			System.out.printf("The value of i is:  %d\n" + i);
+			System.out.printf("The value of i is: \n" + i);
 			// %d doesn't work!!
 		}
 	}
