@@ -4,7 +4,7 @@ public class Lesson11 {
 	public static void main(String[] args) {
 
 		String[] words = new String[3];
-		
+	
 		words[0] = "hello";
 		words[1] = "to";
 		words[2] = "you";
@@ -27,7 +27,7 @@ public class Lesson11 {
 		System.out.println(texts[0]);
 		
 		texts[0] = "one";
-		
+	
 		
 	}
 }

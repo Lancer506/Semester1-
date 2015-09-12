@@ -6,7 +6,7 @@ public class Lesson6b {
 		
 		int loop = 0;
 		
-		while(loop < 5) {
+		while(5 == 5) {
 			System.out.println("Looping: " + loop);
 			
 			

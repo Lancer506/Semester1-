@@ -27,7 +27,6 @@ public class Lesson8 {
 		}
 		while(value != 5);
 		
-		
 		System.out.println("Got 5!");
 	}
 }
